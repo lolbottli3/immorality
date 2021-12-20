@@ -1,0 +1,170 @@
+﻿  dll.cpp
+  sounds.cpp
+  autowall.cpp
+  slowwalk.cpp
+  animation_system.cpp
+  local_animations.cpp
+  resolver.cpp
+  setup_bones.cpp
+  legitbot.cpp
+  menu.cpp
+  airstrafe.cpp
+  bunnyhop.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\lagcompensation\setup_bones.cpp)
+  fakelag.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\fakewalk\slowwalk.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\lagcompensation\resolver.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem bass\sounds.cpp)
+  key_binds.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\misc\airstrafe.cpp)
+  logs.cpp
+  misc.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\legitbot\legitbot.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\autowall\autowall.cpp)
+  prediction_system.cpp
+  spammers.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\lagcompensation\animation_system.cpp)
+  aim.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\misc\bunnyhop.cpp)
+  antiaim.cpp
+  knifebot.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\lagcompensation\local_animations.cpp)
+  zeusbot.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem bass\dll.cpp)
+  bullet_tracers.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\menu.cpp)
+  dormant_esp.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\misc\misc.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\misc\fakelag.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\misc\prediction_system.cpp)
+  GrenadePrediction.cpp
+  nightmode.cpp
+  other_esp.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\misc\logs.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\ragebot\aim.cpp)
+  player_esp.cpp
+  world_esp.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\misc\spammers.cpp)
+  configs.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\visuals\bullet_tracers.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\ragebot\antiaim.cpp)
+  hooks.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\ragebot\knifebot.cpp)
+  firegameevent hook.cpp
+  hooked_beginframe.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\ragebot\zeusbot.cpp)
+  hooked_createmove.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\misc\key_binds.cpp)
+  hooked_dme.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\visuals\dormant_esp.cpp)
+  hooked_drawfog.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\visuals\other_esp.cpp)
+  hooked_events.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\visuals\nightmode.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\visuals\GrenadePrediction.cpp)
+  hooked_findmdl.cpp
+  hooked_fsn.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem configs\configs.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\visuals\player_esp.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem cheats\visuals\world_esp.cpp)
+  hooked_getmaterial.cpp
+  hooked_ishltv.cpp
+  hooked_listleavesinbox.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\firegameevent hook.cpp)
+  hooked_lockcursor.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_beginframe.cpp)
+  hooked_overrideview.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_dme.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks.cpp)
+  hooked_painttraverse.cpp
+  hooked_postscreeneffects.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_createmove.cpp)
+  hooked_runcommand.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_drawfog.cpp)
+  hooked_sceneend.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_fsn.cpp)
+  hooked_senddatagram.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_events.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_findmdl.cpp)
+  hooked_player.cpp
+  hooked_isconnected.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_listleavesinbox.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_ishltv.cpp)
+  hooked_trace.cpp
+  messages hooks.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_getmaterial.cpp)
+  sequence hook.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_lockcursor.cpp)
+  viewmodel hook.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_painttraverse.cpp)
+  vfunc_hook.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_postscreeneffects.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_overrideview.cpp)
+  code_editor.cpp
+  imgui.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_runcommand.cpp)
+  imgui_freetype.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_sceneend.cpp)
+  imgui_widgets.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\ImGui\imgui_freetype.cpp(29,10): fatal error C1083: Não é possível abrir arquivo incluir: 'ft2build.h': No such file or directory
+  inventorychanger.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\messages hooks.cpp)
+  items.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\sequence hook.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_senddatagram.cpp)
+  Clua.cpp
+  main.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_player.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_isconnected.cpp)
+  inprediction.cpp
+  merged.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\viewmodel hook.cpp)
+  network.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\hooks\hooked_trace.cpp)
+  NetworkedVariables.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem ImGui\imgui.cpp)
+  renderable.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem hooks\vfunc_hook.cpp)
+  SkinChanger.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem ImGui\code_editor.cpp)
+  Protobuffs.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem ImGui\imgui_widgets.cpp)
+  Convar.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem inventory\inventorychanger.cpp)
+  structs.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem inventory\items.cpp)
+  parserz.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem main.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem mutiny merge\inprediction.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem mutiny merge\merged.cpp)
+  skins.cpp
+  merged_compiled.cpp
+  csgo.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem mutiny merge\network.cpp)
+  ctx.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem mutiny merge\NetworkedVariables.cpp)
+  draw_manager.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem mutiny merge\renderable.cpp)
+  math.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem nSkinz\SkinChanger.cpp)
+  netmanager.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem protobuffs\Protobuffs.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\utils\csgo.hpp(33,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem sdk\misc\Convar.cpp)
+  recv.cpp
+  twofish.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\utils\twofish.cpp(330,1): error C2280: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::nullptr_t)': tentando referenciar uma função excluída
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.30.30704\include\xstring(2535): message : consulte a declaração de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string'
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.30.30704\include\xstring(2535,5): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::nullptr_t)': a função foi explicitamente excluída (compilando arquivo de origem utils\twofish.cpp)
+  util.cpp
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem lua\Clua.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem sdk\structs.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\utils\csgo.hpp(33,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem utils\csgo.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem skinchanger\enrage parser, thanks!\parserz.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem supremacy merge\merged_compiled.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem skinchanger\skins.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem utils\draw_manager.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem utils\ctx.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem utils\math.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem utils\netmanager.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem utils\recv.cpp)
+C:\Users\henri\Desktop\source codes\trouble_maker (1)\includes.hpp(19,10): fatal error C1083: Não é possível abrir arquivo incluir: 'd3dx9.h': No such file or directory (compilando arquivo de origem utils\util.cpp)
